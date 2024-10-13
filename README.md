@@ -11,7 +11,7 @@ I am a final year student studying a degree in Bachelor of Creative Technologies
 
 - 📫 Email me @ **christian@krahtz.co.za**
 
-## 📌 Pinned Repositories
+## 📌 3rd Year Repositories
 
 <br>
 
