@@ -7,7 +7,7 @@ I am a final year student studying a degree in Bachelor of Creative Technologies
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/krahtz424/profilecard/?igsh=MWZvOXhxaXN3M2duZQ==)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile?style=flat&logo=facebook&logoColor=white&color=4267B2)](https://fb.com/christian-krahtz)
 
-- 🔭 I’m currently working on [smart-view](https://github.com/CWKrahtz/smart-view)
+- 🔭 I worked last on [smart-view](https://github.com/CWKrahtz/smart-view)
 
 - 📫 Email me @ **christian@krahtz.co.za**
 
